@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Conditions" max_length="40" name="x_370905_wodin_conditions" type="collection">
+        <element label="Cloud Cover" max_length="20" name="cloud_cover" type="decimal"/>
+        <element label="Latitude" max_length="20" name="latitude" type="decimal"/>
+        <element label="Longitude" max_length="20" name="longitude" type="decimal"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Observed DateTime" max_length="40" name="observed_datetime" type="glide_date_time"/>
+        <element label="Seas" max_length="32" name="seas" reference="x_370905_wodin_lookup" type="reference"/>
+        <element label="Swell" max_length="32" name="swell" reference="x_370905_wodin_lookup" type="reference"/>
+        <element label="Wind Direction" max_length="32" name="wind_direction" reference="x_370905_wodin_lookup" type="reference"/>
+        <element label="Wind Strength" max_length="32" name="wind_strength" reference="x_370905_wodin_lookup" type="reference"/>
+        <index name="index">
+            <element name="seas"/>
+        </index>
+        <index name="index2">
+            <element name="wind_direction"/>
+        </index>
+        <index name="index3">
+            <element name="wind_strength"/>
+        </index>
+        <index name="index4">
+            <element name="swell"/>
+        </index>
+    </element>
+</database>

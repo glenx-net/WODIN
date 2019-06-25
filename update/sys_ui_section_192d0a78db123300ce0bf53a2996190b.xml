@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="192d0a78db123300ce0bf53a2996190b" sys_domain="global" table="x_370905_wodin_observations" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>ian_admin</sys_created_by>
+            <sys_created_on>2019-06-25 05:20:42</sys_created_on>
+            <sys_id>1d2d0a78db123300ce0bf53a2996190d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370905_wodin_observations" sys_domain="global" view="Default view">192d0a78db123300ce0bf53a2996190b</sys_ui_section>
+            <sys_updated_by>ian_admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 05:20:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>datetime</element>
+            <position>1</position>
+            <sys_created_by>ian_admin</sys_created_by>
+            <sys_created_on>2019-06-25 05:22:50</sys_created_on>
+            <sys_id>e8ad8e78db123300ce0bf53a2996197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370905_wodin_observations" sys_domain="global" view="Default view">192d0a78db123300ce0bf53a2996190b</sys_ui_section>
+            <sys_updated_by>ian_admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 05:22:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>latitude</element>
+            <position>2</position>
+            <sys_created_by>ian_admin</sys_created_by>
+            <sys_created_on>2019-06-25 05:26:48</sys_created_on>
+            <sys_id>ba8ece78db123300ce0bf53a2996192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370905_wodin_observations" sys_domain="global" view="Default view">192d0a78db123300ce0bf53a2996190b</sys_ui_section>
+            <sys_updated_by>ian_admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 05:26:48</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sighting_longitude</element>
+            <position>3</position>
+            <sys_created_by>ian_admin</sys_created_by>
+            <sys_created_on>2019-06-25 05:28:26</sys_created_on>
+            <sys_id>2aee4eb8db123300ce0bf53a2996195d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370905_wodin_observations" sys_domain="global" view="Default view">192d0a78db123300ce0bf53a2996190b</sys_ui_section>
+            <sys_updated_by>ian_admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 05:28:26</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sighting_latitude</element>
+            <position>4</position>
+            <sys_created_by>ian_admin</sys_created_by>
+            <sys_created_on>2019-06-25 05:30:19</sys_created_on>
+            <sys_id>5e5f4eb8db123300ce0bf53a299619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370905_wodin_observations" sys_domain="global" view="Default view">192d0a78db123300ce0bf53a2996190b</sys_ui_section>
+            <sys_updated_by>ian_admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 05:30:19</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>bearing</element>
+            <position>5</position>
+            <sys_created_by>ian_admin</sys_created_by>
+            <sys_created_on>2019-06-25 05:30:39</sys_created_on>
+            <sys_id>176fc2f8db123300ce0bf53a29961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370905_wodin_observations" sys_domain="global" view="Default view">192d0a78db123300ce0bf53a2996190b</sys_ui_section>
+            <sys_updated_by>ian_admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 05:30:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>distance</element>
+            <position>6</position>
+            <sys_created_by>ian_admin</sys_created_by>
+            <sys_created_on>2019-06-25 05:31:18</sys_created_on>
+            <sys_id>649f46f8db123300ce0bf53a299619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370905_wodin_observations" sys_domain="global" view="Default view">192d0a78db123300ce0bf53a2996190b</sys_ui_section>
+            <sys_updated_by>ian_admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 05:31:18</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>observation_latitude</element>
+            <position>7</position>
+            <sys_created_by>ian_admin</sys_created_by>
+            <sys_created_on>2019-06-25 05:32:03</sys_created_on>
+            <sys_id>ebbfc2f8db123300ce0bf53a2996191e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370905_wodin_observations" sys_domain="global" view="Default view">192d0a78db123300ce0bf53a2996190b</sys_ui_section>
+            <sys_updated_by>ian_admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 05:32:03</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>observation_longitude</element>
+            <position>8</position>
+            <sys_created_by>ian_admin</sys_created_by>
+            <sys_created_on>2019-06-25 05:32:37</sys_created_on>
+            <sys_id>b7dfc6f8db123300ce0bf53a29961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_370905_wodin_observations" sys_domain="global" view="Default view">192d0a78db123300ce0bf53a2996190b</sys_ui_section>
+            <sys_updated_by>ian_admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 05:32:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_370905_wodin_observations</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>ian_admin</sys_created_by>
+            <sys_created_on>2019-06-25 05:20:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>192d0a78db123300ce0bf53a2996190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_370905_wodin_observations</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Wodin" source="x_370905_wodin">dbdcd2eadb863300ce0bf53a29961910</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wodin">dbdcd2eadb863300ce0bf53a29961910</sys_scope>
+            <sys_update_name>sys_ui_section_192d0a78db123300ce0bf53a2996190b</sys_update_name>
+            <sys_updated_by>ian_admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 05:20:42</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

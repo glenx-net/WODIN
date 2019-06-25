@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element label="Observations" max_length="40" name="x_370905_wodin_observations" type="collection">
+        <element label="Bearing" max_length="20" name="bearing" type="decimal"/>
+        <element label="Datetime" max_length="40" name="datetime" read_only="true" type="glide_date_time"/>
+        <element label="Distance" max_length="20" name="distance" type="decimal"/>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Observation Latitude" max_length="20" name="observation_latitude" type="decimal"/>
+        <element label="Observation Longitude" max_length="20" name="observation_longitude" type="decimal"/>
+        <element label="Sighting Latitude" max_length="20" name="sighting_latitude" type="decimal"/>
+        <element label="Sighting Longitude" max_length="20" name="sighting_longitude" type="decimal"/>
     </element>
 </database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="number" label="Number" language="en" table="x_370905_wodin_conditions">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <help/>
+            <hint/>
+            <label>Number</label>
+            <language>en</language>
+            <name>x_370905_wodin_conditions</name>
+            <plural>Numbers</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ian_admin</sys_created_by>
+            <sys_created_on>2019-06-25 06:07:10</sys_created_on>
+            <sys_id>cac7da30db523300ce0bf53a299619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number</sys_name>
+            <sys_package display_value="Wodin" source="x_370905_wodin">dbdcd2eadb863300ce0bf53a29961910</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Wodin">dbdcd2eadb863300ce0bf53a29961910</sys_scope>
+            <sys_update_name>sys_documentation_x_370905_wodin_conditions_number_en</sys_update_name>
+            <sys_updated_by>ian_admin</sys_updated_by>
+            <sys_updated_on>2019-06-25 06:07:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
