@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css>@import url('https://fonts.googleapis.com/css?family=Jura:400,500,700');</css>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">481623e2db8a3300ce0bf53a2996199b</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>ian_admin</sys_created_by>
+        <sys_created_on>2019-06-18 12:05:10</sys_created_on>
+        <sys_id>5c3667e2db8a3300ce0bf53a29961975</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WODIN HOME</sys_name>
+        <sys_package display_value="Wodin" source="x_370905_wodin">dbdcd2eadb863300ce0bf53a29961910</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wodin">dbdcd2eadb863300ce0bf53a29961910</sys_scope>
+        <sys_update_name>sp_instance_5c3667e2db8a3300ce0bf53a29961975</sys_update_name>
+        <sys_updated_by>ian_admin</sys_updated_by>
+        <sys_updated_on>2019-06-18 12:05:10</sys_updated_on>
+        <title>WODIN HOME</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<div id=\"whole-screen\">\n<div id=\"title-block\">\n<p>&nbsp;</p>\n<a href=\"?id=wodin_index\"> <img id=\"med-img\" title=\"\" src=\"wodinlogo.svg\" alt=\"A variation on the valknut, inverted to look like a W\" /></a>\n<div id=\"text-bit\">\n<p id=\"big-name\">WODIN</p>\n<p id=\"tag-line\">WHALE OBSERVATION DATA INPUT NETWORK</p>\n</div>\n</div>\n<div class=\"menu-container\">\n<div id=\"info-box\" class=\"list-box\">\n<p class=\"box-title\">INFORMATION</p>\n<ul>\n<li><a title=\"data logger\" href=\"logger.do\" rel=\"nofollow\">data logger</a></li>\n<li><a title=\"contact us\" href=\"contact.do\" rel=\"nofollow\">contact us</a></li>\n<li><a title=\"references\" href=\"ref.do\" rel=\"nofollow\">references</a></li>\n<li><a title=\"knowledge\" href=\"?id=wodin_knowledge\" rel=\"nofollow\">knowledge</a></li>\n</ul>\n</div>\n<div id=\"admin-box\" class=\"list-box\">\n<p class=\"box-title\">ADMINISTRATION</p>\n<ul>\n<li><a title=\"user admin\" href=\"?id=wodin_users\" rel=\"nofollow\">user admin</a></li>\n<li><a title=\"db admin\" href=\"nav_to.do?uri=%2Fhome.do\" rel=\"nofollow\">db admin</a></li>\n<li><a title=\"site admin\" href=\"nav_to.do\" rel=\"nofollow\">site admin</a></li>\n</ul>\n</div>\n<div id=\"mod-box\" class=\"list-box\">\n<p class=\"box-title\">MODERATION</p>\n<ul>\n<li><a title=\"duplicates\" href=\"dups.do\" rel=\"nofollow\">duplicates</a></li>\n<li><a title=\"errors\" href=\"errs.do\" rel=\"nofollow\">errors</a></li>\n<li><a title=\"contention\" href=\"cont.do\" rel=\"nofollow\">contention</a></li>\n<li><a title=\"user notes\" href=\"notes.do\" rel=\"nofollow\">user notes</a></li>\n</ul>\n</div>\n<div id=\"data-box\" class=\"list-box\">\n<p class=\"box-title\">DATA ANALYSIS</p>\n<ul>\n<li><a title=\"maps\" href=\"maps.do\" rel=\"nofollow\">maps</a></li>\n<li><a title=\"charts\" href=\"charts.do\" rel=\"nofollow\">charts</a></li>\n<li><a title=\"data tables\" href=\"data.do\" rel=\"nofollow\">data tables</a></li>\n<li><a title=\"analysis tools\" href=\"tools.do\" rel=\"nofollow\">analysis tools</a></li>\n</ul>\n</div>\n</div>\n</div>\n<p>&nbsp;</p>",
+		"displayValue": "<div id=\"whole-screen\">\n<div id=\"title-block\">\n<p>&nbsp;</p>\n<a href=\"?id=wodin_index\"> <img id=\"med-img\" title=\"\" src=\"wodinlogo.svg\" alt=\"A variation on the valknut, inverted to look like a W\" /></a>\n<div id=\"text-bit\">\n<p id=\"big-name\">WODIN</p>\n<p id=\"tag-line\">WHALE OBSERVATION DATA INPUT NETWORK</p>\n</div>\n</div>\n<div class=\"menu-container\">\n<div id=\"info-box\" class=\"list-box\">\n<p class=\"box-title\">INFORMATION</p>\n<ul>\n<li><a title=\"data logger\" href=\"logger.do\" rel=\"nofollow\">data logger</a></li>\n<li><a title=\"contact us\" href=\"contact.do\" rel=\"nofollow\">contact us</a></li>\n<li><a title=\"references\" href=\"ref.do\" rel=\"nofollow\">references</a></li>\n<li><a title=\"knowledge\" href=\"?id=wodin_knowledge\" rel=\"nofollow\">knowledge</a></li>\n</ul>\n</div>\n<div id=\"admin-box\" class=\"list-box\">\n<p class=\"box-title\">ADMINISTRATION</p>\n<ul>\n<li><a title=\"user admin\" href=\"?id=wodin_users\" rel=\"nofollow\">user admin</a></li>\n<li><a title=\"db admin\" href=\"nav_to.do?uri=%2Fhome.do\" rel=\"nofollow\">db admin</a></li>\n<li><a title=\"site admin\" href=\"nav_to.do\" rel=\"nofollow\">site admin</a></li>\n</ul>\n</div>\n<div id=\"mod-box\" class=\"list-box\">\n<p class=\"box-title\">MODERATION</p>\n<ul>\n<li><a title=\"duplicates\" href=\"dups.do\" rel=\"nofollow\">duplicates</a></li>\n<li><a title=\"errors\" href=\"errs.do\" rel=\"nofollow\">errors</a></li>\n<li><a title=\"contention\" href=\"cont.do\" rel=\"nofollow\">contention</a></li>\n<li><a title=\"user notes\" href=\"notes.do\" rel=\"nofollow\">user notes</a></li>\n</ul>\n</div>\n<div id=\"data-box\" class=\"list-box\">\n<p class=\"box-title\">DATA ANALYSIS</p>\n<ul>\n<li><a title=\"maps\" href=\"maps.do\" rel=\"nofollow\">maps</a></li>\n<li><a title=\"charts\" href=\"charts.do\" rel=\"nofollow\">charts</a></li>\n<li><a title=\"data tables\" href=\"data.do\" rel=\"nofollow\">data tables</a></li>\n<li><a title=\"analysis tools\" href=\"tools.do\" rel=\"nofollow\">analysis tools</a></li>\n</ul>\n</div>\n</div>\n</div>\n<p>&nbsp;</p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=5c3667e2db8a3300ce0bf53a29961975"/>
+</record_update>

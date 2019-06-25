@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_css">
+    <sp_css action="INSERT_OR_UPDATE">
+        <css>body {
+ overflow: hidden;
+ padding :  0;
+ margin : 0;
+ background : #33423e;
+ background-image : url("wodin_bg2.jpg");
+ background-size : cover;
+}
+
+
+
+.hidden {
+display : none;
+}
+
+li a {
+color : #7aa0b8;
+font-family: 'Jura', sans-serif;
+font-size: 12pt;
+text-align : left;
+}
+
+#download {
+color : #4a8f7b;
+// background : #244;
+// opacity : 0.5;
+font-family: 'Jura', sans-serif;
+font-size: 14pt;
+//box-shadow: 2px  2px 12px  2px #354;
+position : absolute ;
+bottom: 0px;
+left : 0px;
+width : 390px;
+margin : 2%;
+padding : 1%;
+text-align :center;
+}
+
+#appstore {
+height : 40px;
+margin : 0;
+padding : 0;
+}
+#googleplay {
+height : 60px;
+margin : 0;
+padding : 0;
+}</css>
+        <name>Wodin Layouts</name>
+        <sys_class_name>sp_css</sys_class_name>
+        <sys_created_by>ian_admin</sys_created_by>
+        <sys_created_on>2018-05-28 02:06:24</sys_created_on>
+        <sys_id>a0d725924fd61f4043f0f2318110c7d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Wodin Layouts</sys_name>
+        <sys_package display_value="Wodin" source="x_370905_wodin">dbdcd2eadb863300ce0bf53a29961910</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wodin">dbdcd2eadb863300ce0bf53a29961910</sys_scope>
+        <sys_update_name>sp_css_a0d725924fd61f4043f0f2318110c7d7</sys_update_name>
+        <sys_updated_by>ian_admin</sys_updated_by>
+        <sys_updated_on>2018-05-28 02:06:24</sys_updated_on>
+    </sp_css>
+</record_update>

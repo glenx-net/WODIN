@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_metatag">
+    <sp_metatag action="INSERT_OR_UPDATE">
+        <content>#4285f4</content>
+        <name>theme-color</name>
+        <sp_page display_value="wodin_index_1">e0d2a722db8a3300ce0bf53a2996191c</sp_page>
+        <sys_class_name>sp_metatag</sys_class_name>
+        <sys_created_by>ian_admin</sys_created_by>
+        <sys_created_on>2019-06-19 01:49:24</sys_created_on>
+        <sys_id>8a13a6f2db023300ce0bf53a2996198a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>theme-color</sys_name>
+        <sys_package display_value="Wodin" source="x_370905_wodin">dbdcd2eadb863300ce0bf53a29961910</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wodin">dbdcd2eadb863300ce0bf53a29961910</sys_scope>
+        <sys_update_name>sp_metatag_8a13a6f2db023300ce0bf53a2996198a</sys_update_name>
+        <sys_updated_by>ian_admin</sys_updated_by>
+        <sys_updated_on>2019-06-19 01:49:24</sys_updated_on>
+    </sp_metatag>
+</record_update>
